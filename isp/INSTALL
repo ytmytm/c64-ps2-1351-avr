@@ -1,0 +1,7 @@
+Use 'make install' to make and install the program.
+If you want ordinary users to be able to use it and
+you know what you are doing uncomment the line in the
+Makefile. WARNING: This may compromise system security,
+use with extreme care. Neither the author nor the
+porters can be held responsible for any problems arising
+from the use of this program.
