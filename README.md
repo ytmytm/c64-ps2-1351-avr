@@ -6,6 +6,14 @@ These are my experiments with coding AVR microcontroller to translate PS/2 mouse
 signals into proportional mode of CBM 1351 mouse.
 I have mostly failed, only digital (joystick emulation) worked flawlessly.
 
+Is this still relevant now with almost all peripherals using USB?
+
+Actually you should visit a project that actually works:
+http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/%5Bm%5Douse/
+
+Or original PIC version with lots of background 1351 information:
+http://www.zimmers.net/anonftp/pub/cbm/documents/projects/interfaces/mouse/Mouse.html
+
 Let's go back to 2003-10-19...
 
 #INTRO:
